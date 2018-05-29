@@ -8360,6 +8360,14 @@ body {
   margin-bottom: 60px;
 }
 
+/*用户注册页*/
+
+.register-page img.captcha {
+  margin-bottom: 0px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
